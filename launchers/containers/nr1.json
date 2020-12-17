@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "containers",
+    "displayName": "Container Explorer",
+    "description": "Explore millions of containers",
+    "rootNerdletId": "container-explorer"
+}
